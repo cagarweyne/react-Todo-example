@@ -1,0 +1,14 @@
+.itemsList-ul {
+  list-style-type: none;
+}
+
+.itemsList-ul li {
+  padding: 5px;
+}
+
+.todo-list-container {
+  width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
